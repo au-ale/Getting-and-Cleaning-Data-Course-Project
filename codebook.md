@@ -1,6 +1,7 @@
 Dataset:
 
 The data for this project comes from:
+
 Human Activity Recognition Using Smartphones Dataset
 
 ======================================
@@ -23,23 +24,23 @@ Features Information:
 - These signals were used to estimate variables of the feature vector for each pattern:  
   '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tBodyAcc-XYZ
-tGravityAcc-XYZ
-tBodyAccJerk-XYZ
-tBodyGyro-XYZ
-tBodyGyroJerk-XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ
-fBodyAccJerk-XYZ
-fBodyGyro-XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+- tBodyAcc-XYZ
+- tGravityAcc-XYZ
+- tBodyAccJerk-XYZ
+- tBodyGyro-XYZ
+- tBodyGyroJerk-XYZ
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ
+- fBodyAccJerk-XYZ
+- fBodyGyro-XYZ
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
 
@@ -48,85 +49,85 @@ The set of variables that were estimated from these signals are:
 
 These features were renamed in the analysis to provide a fuller description:
 
-TimeBodyAccelerometer-mean()-X
-TimeBodyAccelerometer-mean()-Y
-TimeBodyAccelerometer-mean()-Z
-TimeBodyAccelerometer-std()-X
-TimeBodyAccelerometer-std()-Y
-TimeBodyAccelerometer-std()-Z
-TimeGravityAccelerometer-mean()-X
-TimeGravityAccelerometer-mean()-Y
-TimeGravityAccelerometer-mean()-Z
-TimeGravityAccelerometer-std()-X
-TimeGravityAccelerometer-std()-Y
-TimeGravityAccelerometer-std()-Z
-TimeBodyAccelerometerJerkSignals-mean()-X
-TimeBodyAccelerometerJerkSignals-mean()-Y
-TimeBodyAccelerometerJerkSignals-mean()-Z
-TimeBodyAccelerometerJerkSignals-std()-X
-TimeBodyAccelerometerJerkSignals-std()-Y
-TimeBodyAccelerometerJerkSignals-std()-Z
-TimeBodyGyroscope-mean()-X
-TimeBodyGyroscope-mean()-Y
-TimeBodyGyroscope-mean()-Z
-TimeBodyGyroscope-std()-X
-TimeBodyGyroscope-std()-Y
-TimeBodyGyroscope-std()-Z
-TimeBodyGyroscopeJerkSignals-mean()-X
-TimeBodyGyroscopeJerkSignals-mean()-Y
-TimeBodyGyroscopeJerkSignals-mean()-Z
-TimeBodyGyroscopeJerkSignals-std()-X
-TimeBodyGyroscopeJerkSignals-std()-Y
-TimeBodyGyroscopeJerkSignals-std()-Z
-TimeBodyAccelerometerMagnitude-mean()
-TimeBodyAccelerometerMagnitude-std()
-TimeGravityAccelerometerMagnitude-mean()
-TimeGravityAccelerometerMagnitude-std()
-TimeBodyAccelerometerJerkSignalsMagnitude-mean()
-TimeBodyAccelerometerJerkSignalsMagnitude-std()
-TimeBodyGyroscopeMagnitude-mean()
-TimeBodyGyroscopeMagnitude-std()
-TimeBodyGyroscopeJerkSignalsMagnitude-mean()
-TimeBodyGyroscopeJerkSignalsMagnitude-std()
-FrequencyBodyAccelerometer-mean()-X
-FrequencyBodyAccelerometer-mean()-Y
-FrequencyBodyAccelerometer-mean()-Z
-FrequencyBodyAccelerometer-std()-X
-FrequencyBodyAccelerometer-std()-Y
-FrequencyBodyAccelerometer-std()-Z
-FrequencyBodyAccelerometer-meanFreq()-X
-FrequencyBodyAccelerometer-meanFreq()-Y
-FrequencyBodyAccelerometer-meanFreq()-Z
-FrequencyBodyAccelerometerJerkSignals-mean()-X
-FrequencyBodyAccelerometerJerkSignals-mean()-Y
-FrequencyBodyAccelerometerJerkSignals-mean()-Z
-FrequencyBodyAccelerometerJerkSignals-std()-X
-FrequencyBodyAccelerometerJerkSignals-std()-Y
-FrequencyBodyAccelerometerJerkSignals-std()-Z
-FrequencyBodyAccelerometerJerkSignals-meanFreq()-X
-FrequencyBodyAccelerometerJerkSignals-meanFreq()-Y
-FrequencyBodyAccelerometerJerkSignals-meanFreq()-Z
-FrequencyBodyGyroscope-mean()-X
-FrequencyBodyGyroscope-mean()-Y
-FrequencyBodyGyroscope-mean()-Z
-FrequencyBodyGyroscope-std()-X
-FrequencyBodyGyroscope-std()-Y
-FrequencyBodyGyroscope-std()-Z
-FrequencyBodyGyroscope-meanFreq()-X
-FrequencyBodyGyroscope-meanFreq()-Y
-FrequencyBodyGyroscope-meanFreq()-Z
-FrequencyBodyAccelerometerMagnitude-mean()
-FrequencyBodyAccelerometerMagnitude-std()
-FrequencyBodyAccelerometerMagnitude-meanFreq()
-FrequencyBodyAccelerometerJerkSignalsMagnitude-mean()
-FrequencyBodyAccelerometerJerkSignalsMagnitude-std()
-FrequencyBodyAccelerometerJerkSignalsMagnitude-meanFreq()
-FrequencyBodyGyroscopeMagnitude-mean()
-FrequencyBodyGyroscopeMagnitude-std()
-FrequencyBodyGyroscopeMagnitude-meanFreq()
-FrequencyBodyGyroscopeJerkSignalsMagnitude-mean()
-FrequencyBodyGyroscopeJerkSignalsMagnitude-std()
-FrequencyBodyGyroscopeJerkSignalsMagnitude-meanFreq()
+- TimeBodyAccelerometer-mean()-X
+- TimeBodyAccelerometer-mean()-Y
+- TimeBodyAccelerometer-mean()-Z
+- TimeBodyAccelerometer-std()-X
+- TimeBodyAccelerometer-std()-Y
+- TimeBodyAccelerometer-std()-Z
+- TimeGravityAccelerometer-mean()-X
+- TimeGravityAccelerometer-mean()-Y
+- TimeGravityAccelerometer-mean()-Z
+- TimeGravityAccelerometer-std()-X
+- TimeGravityAccelerometer-std()-Y
+- TimeGravityAccelerometer-std()-Z
+- TimeBodyAccelerometerJerkSignals-mean()-X
+- TimeBodyAccelerometerJerkSignals-mean()-Y
+- TimeBodyAccelerometerJerkSignals-mean()-Z
+- TimeBodyAccelerometerJerkSignals-std()-X
+- TimeBodyAccelerometerJerkSignals-std()-Y
+- TimeBodyAccelerometerJerkSignals-std()-Z
+- TimeBodyGyroscope-mean()-X
+- TimeBodyGyroscope-mean()-Y
+- TimeBodyGyroscope-mean()-Z
+- TimeBodyGyroscope-std()-X
+- TimeBodyGyroscope-std()-Y
+- TimeBodyGyroscope-std()-Z
+- TimeBodyGyroscopeJerkSignals-mean()-X
+- TimeBodyGyroscopeJerkSignals-mean()-Y
+- TimeBodyGyroscopeJerkSignals-mean()-Z
+- TimeBodyGyroscopeJerkSignals-std()-X
+- TimeBodyGyroscopeJerkSignals-std()-Y
+- TimeBodyGyroscopeJerkSignals-std()-Z
+- TimeBodyAccelerometerMagnitude-mean()
+- TimeBodyAccelerometerMagnitude-std()
+- TimeGravityAccelerometerMagnitude-mean()
+- TimeGravityAccelerometerMagnitude-std()
+- TimeBodyAccelerometerJerkSignalsMagnitude-mean()
+- TimeBodyAccelerometerJerkSignalsMagnitude-std()
+- TimeBodyGyroscopeMagnitude-mean()
+- TimeBodyGyroscopeMagnitude-std()
+- TimeBodyGyroscopeJerkSignalsMagnitude-mean()
+- TimeBodyGyroscopeJerkSignalsMagnitude-std()
+- FrequencyBodyAccelerometer-mean()-X
+- FrequencyBodyAccelerometer-mean()-Y
+- FrequencyBodyAccelerometer-mean()-Z
+- FrequencyBodyAccelerometer-std()-X
+- FrequencyBodyAccelerometer-std()-Y
+- FrequencyBodyAccelerometer-std()-Z
+- FrequencyBodyAccelerometer-meanFreq()-X
+- FrequencyBodyAccelerometer-meanFreq()-Y
+- FrequencyBodyAccelerometer-meanFreq()-Z
+- FrequencyBodyAccelerometerJerkSignals-mean()-X
+- FrequencyBodyAccelerometerJerkSignals-mean()-Y
+- FrequencyBodyAccelerometerJerkSignals-mean()-Z
+- FrequencyBodyAccelerometerJerkSignals-std()-X
+- FrequencyBodyAccelerometerJerkSignals-std()-Y
+- FrequencyBodyAccelerometerJerkSignals-std()-Z
+- FrequencyBodyAccelerometerJerkSignals-meanFreq()-X
+- FrequencyBodyAccelerometerJerkSignals-meanFreq()-Y
+- FrequencyBodyAccelerometerJerkSignals-meanFreq()-Z
+- FrequencyBodyGyroscope-mean()-X
+- FrequencyBodyGyroscope-mean()-Y
+- FrequencyBodyGyroscope-mean()-Z
+- FrequencyBodyGyroscope-std()-X
+- FrequencyBodyGyroscope-std()-Y
+- FrequencyBodyGyroscope-std()-Z
+- FrequencyBodyGyroscope-meanFreq()-X
+- FrequencyBodyGyroscope-meanFreq()-Y
+- FrequencyBodyGyroscope-meanFreq()-Z
+- FrequencyBodyAccelerometerMagnitude-mean()
+- FrequencyBodyAccelerometerMagnitude-std()
+- FrequencyBodyAccelerometerMagnitude-meanFreq()
+- FrequencyBodyAccelerometerJerkSignalsMagnitude-mean()
+- FrequencyBodyAccelerometerJerkSignalsMagnitude-std()
+- FrequencyBodyAccelerometerJerkSignalsMagnitude-meanFreq()
+- FrequencyBodyGyroscopeMagnitude-mean()
+- FrequencyBodyGyroscopeMagnitude-std()
+- FrequencyBodyGyroscopeMagnitude-meanFreq()
+- FrequencyBodyGyroscopeJerkSignalsMagnitude-mean()
+- FrequencyBodyGyroscopeJerkSignalsMagnitude-std()
+- FrequencyBodyGyroscopeJerkSignalsMagnitude-meanFreq()
 
 =======================================
 
