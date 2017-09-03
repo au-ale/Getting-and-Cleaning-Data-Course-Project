@@ -7,12 +7,11 @@ Human Activity Recognition Using Smartphones Dataset
 
 Description of experiment:
 
-30 volunteers performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
-Using its embedded accelerometer and gyroscope, the researchers captured 3-axial linear acceleration and 3-axial angular velocity (tAcc-XYZ and tGyro-XYZ) at a constant rate of 50Hz. 
-The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). 
-The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. 
-The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, 
-a vector of features was obtained by calculating variables from the time and frequency domain.
+- 30 volunteers performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone    (Samsung Galaxy S II) on the waist. 
+- Using its embedded accelerometer and gyroscope, the researchers captured 3-axial linear acceleration and 3-axial angular velocity       (tAcc-XYZ and tGyro-XYZ) at a constant rate of 50Hz. 
+- The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding   windows of 2.56 sec and 50% overlap (128 readings/window). 
+- The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter   into body acceleration and gravity. 
+- The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used.    -  From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
 ======================================
 
